@@ -1,0 +1,5 @@
+package com.backend.www.repo;
+
+public interface EmployeeRepository {
+
+}
